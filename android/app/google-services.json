@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "227227366793",
+    "firebase_url": "https://lumen-care-8f831.firebaseio.com",
+    "project_id": "lumen-care-8f831",
+    "storage_bucket": "lumen-care-8f831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227227366793:android:dd35df413b630788d21d58",
+        "android_client_info": {
+          "package_name": "com.lumencare.lumen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227227366793-dgba3iss9feo1bb82eg4ccn7qp30404n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lumencare.lumen",
+            "certificate_hash": "af7b0a48d7ce096e9b3091c8ca2c7c3fe8ddcd44"
+          }
+        },
+        {
+          "client_id": "227227366793-vb6tra704kro788eobi24vko2gq44nmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lumencare.lumen",
+            "certificate_hash": "5e0d4de67011db5192f312ce64e6ea04aec2035d"
+          }
+        },
+        {
+          "client_id": "227227366793-26q1hupnam4o4h2eh5akqjc1jh2os369.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6FbaP456fwMFEScvESs7zj7Ps8OLsLAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227227366793-26q1hupnam4o4h2eh5akqjc1jh2os369.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
